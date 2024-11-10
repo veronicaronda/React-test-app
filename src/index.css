@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.customHeight{
+    height: calc(100% + 2rem);
+}
